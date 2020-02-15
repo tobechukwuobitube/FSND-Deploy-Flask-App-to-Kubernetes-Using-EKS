@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/mac/Desktop/udacity/FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS/venv"
+VIRTUAL_ENV="/Users/mac/Desktop/FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

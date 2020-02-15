@@ -1,4 +1,4 @@
-#!/Users/mac/Desktop/udacity/FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS/venv/bin/python
+#!/Users/mac/Desktop/FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS/venv/bin/python
 
 import sys
 import getopt
