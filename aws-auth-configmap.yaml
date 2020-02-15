@@ -5,7 +5,7 @@ metadata:
   namespace: kube-system
 data:
   mapRoles: |
-    - rolearn: arn:aws:iam::679998374111:role/eksctl-simple-jwt-api-nodegroup-n-NodeInstanceRole-1QDMQFAUHKV2S
+    - rolearn: arn:aws:iam::679998374111:role/UdacityFlaskDeployCBKubectlRole
       username: build
       groups:
         - system:masters
